@@ -25,3 +25,7 @@ Generating sign language images with `DCGAN` using our own [Sign Language Datase
 - Used Python Version: 3.6.0
 - Install necessary modules with `sudo pip3 install -r requirements.txt` command.
 - Not forget to [download dataset](#getting-dataset) before training!
+
+
+# TODO List:
+- [ ] Apply `Data Augmentation` to dataset.
